@@ -36,7 +36,6 @@ FORCE_JOIN_CHANNELS = [
     {"name": "BOTS CHANNEL", "id": "@rbxrajachainal786", "url": "https://t.me/rbxrajachainal786"},
     {"name": "WHATSAPP CHANNEL", "id": "@rbxrajachainal786", "url": "https://whatsapp.com/channel/0029VbBdwEIDzgTGokvrMy1m"},
     {"name": "WHATSAPP GRUPS", "id": "@rbxrajachainal786", "url": "https://chat.whatsapp.com/JlFohjASSpIHZT2LKVKmUm?s=cl&p=a&mlu=4&ilr=4"},
-    {"name": "YOUTUBE CHANNEL", "id": "@rizzujaan143", "url": "https://youtube.com/@rizzujaan143?si=9JpsVmM4MCegD8jU"},   
 ]
 
 # ᴇᴍᴀɪʟ ʟɪsᴛs (ᴋᴇᴇᴘ ᴀᴘᴘᴇᴀʟs ɴᴏʀᴍᴀʟ)
